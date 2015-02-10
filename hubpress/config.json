@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "aufgetischt",
-    "repositoryName": "aufgetischt.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "ichi"
-  }
-}
+{"meta":{"username":"aufgetischt","repositoryName":"aufgetischt.github.io","branch":"master"},"site":{"title":"aufgetischt","postsPerPage":"12","url":"http://aufgetischt.github.io"},"socialnetwork":{},"theme":{"name":"ichi","url":"http://aufgetischt.github.io/themes/ichi"}}
