@@ -1,6 +1,7 @@
 
 = Alles super
 :hp-tags: Test, Erster
+:hp-image: //gratisography.com/pictures/131_1.jpg
 
 ### Ein erster Eintrag zum Testen
 
