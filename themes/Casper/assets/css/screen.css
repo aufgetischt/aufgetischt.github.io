@@ -103,6 +103,9 @@ table { border-collapse: collapse; border-spacing: 0; }
    1. Icons - Sets up the icon font and respective classes
    ========================================================================== */
 
+/* Google Fonts */
+@import url(http://fonts.googleapis.com/css?family=Cedarville+Cursive);
+
 /* Import the font file with the icons in it */
 @font-face {
     font-family: "casper-icons";
@@ -658,7 +661,7 @@ margin on the iframe, cause it breaks stuff. */
     font-size: 5rem;
     letter-spacing: -1px;
     font-weight: 700;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Cedarville Cursive";
     color: #fff;
 }
 
