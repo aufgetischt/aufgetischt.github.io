@@ -9,7 +9,7 @@
 ## Minestrone ist ganz easy
 
 
-![Large image](//aufgetischt.es/images/boat-in-the-sun-980x646.jpg#large)
+![Gallery 1](//aufgetischt.es/images/boat-in-the-sun-980x646.jpg)
 
 **dieses Bild ist in der Größe large**
 
