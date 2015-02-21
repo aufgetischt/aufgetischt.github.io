@@ -11,6 +11,9 @@
 
 ![Gallery 1](//aufgetischt.es/images/boat-in-the-sun-980x646.jpg)
 
+.Thumbnail linked to full image
+image://aufgetischt.es/images/boat-in-the-sun-980x646.jpg["Texthinweis",width=400,link="//aufgetischt.es/images/boat-in-the-sun-980x646.jpg"]
+
 **dieses Bild ist in der Größe large**
 
 geht alles
