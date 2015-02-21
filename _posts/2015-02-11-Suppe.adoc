@@ -14,4 +14,6 @@ image://jonoandjules.files.wordpress.com/2012/05/spring-minestrone.jpg[Texthinwe
 
 **dieses Bild ist in der Größe large**
 
+latexmath:[$C = \alpha + \beta Y^{\gamma} + \epsilon$]
+
 geht alles
