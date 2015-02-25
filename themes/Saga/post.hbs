@@ -12,6 +12,7 @@
         <span class="post-data"><span class="date animated fadeInUp"><i class="fa fa-clock-o"></i> <time class="timesince date" data-timesince="{{date format='X'}}" datetime="{{date format='YYYY-MM-DDTHH:mm'}}" title="{{date format='DD MMMM YYYY'}}">{{date published_at timeago='true'}}</time></span>
             {{#if tags}}<span class="tags animated fadeInUp"><i class="fa fa-tags"></i> {{tags prefix="" separator=", "}}</span>{{/if}}
 			{{#if category}}<span class="tags animated fadeInUp"><i class="fa fa-folder-o"></i> {{category}}</span>{{/if}}
+			{{#if duration}}<span class="tags animated fadeInUp"><i class="fa fa-clock-o"></i> {{duration}}</span>{{/if}}
     </section>
     </div>
 </header>
