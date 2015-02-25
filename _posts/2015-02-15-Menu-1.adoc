@@ -2,6 +2,7 @@
 = Menü 1
 :hp-tags: Test, Erster
 :hp-category: Kategorie1
+:pt-duration: 20 min
 :hp-image: http://aufgetischt.es/images/boat-in-the-sun-980x646.jpg
 
 ### Ein erster Eintrag zum Testen
